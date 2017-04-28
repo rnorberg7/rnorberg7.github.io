@@ -1,9 +1,3 @@
-# :rocket: Hello, World! :smiley:
+# :rocket: My CIS Website on uoregon.edu :smiley:
 
-[My CIS Website on
-uoregon.edu] (http://pages.uoregon.edu/rnorberg/111/)
-
-![github social coding logo](images/github-pic.png)
-
-
- :rocket:
+[My Hello-World repo](https://github.com/rnorberg7/hello-world.git)
